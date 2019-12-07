@@ -4,6 +4,7 @@ User Interface has a simple view that shows all the "products" and user can live
 ## After Clone
 
 Please after cloning this repo, to make it work do as following: 
+- run "composer install"
 - run "composer dump-autoload"
 - run "php artisan key:generate"
 - generate .env file and set up database
