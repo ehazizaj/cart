@@ -6,8 +6,8 @@ User Interface has a simple view that shows all the "products" and user can live
 Please after cloning this repo, to make it work do as following: 
 - run "composer install"
 - run "composer dump-autoload"
-- run "php artisan key:generate"
 - generate .env file and set up database
+- run "php artisan key:generate"
 - run "php artisan migrate"
 - run "php artisan db:seed" , this will also create 2 users 1) email: admin@gmail.com pass: admin1234 , 2) email: user@gmail.com pass: user1234
 
