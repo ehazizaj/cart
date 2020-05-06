@@ -10,4 +10,4 @@ Please after cloning this repo, to make it work do as following:
 - run "php artisan migrate"
 - run "php artisan db:seed" , this will also create 2 users 1) email: admin@gmail.com pass: admin1234 , 2) email: user@gmail.com pass: user1234
 
-Shopping Cart is a very wide concept and in this task I have tried to cover only the basics.
+Shopping Cart is a very wide concept but I have tried to cover only the basics.
